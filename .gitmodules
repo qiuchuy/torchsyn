@@ -1,0 +1,3 @@
+[submodule "nnsmith"]
+	path = nnsmith
+	url = https://github.com/ise-uiuc/nnsmith.git
