@@ -1,3 +1,6 @@
 [submodule "nnsmith"]
 	path = nnsmith
-	url = https://github.com/ise-uiuc/nnsmith.git
+	url = https://github.com/qiuchuy/nnsmith
+[submodule "mynnsmith"]
+	path = mynnsmith
+	url = https://github.com/qiuchuy/nnsmith

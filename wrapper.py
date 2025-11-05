@@ -21,7 +21,7 @@ def parse_args():
         "--generated_nums",
         type=int,
         help="Number of programs to generate",
-        default=10,
+        default=100,
     )
     return parser.parse_args()
 
